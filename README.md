@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akhilsasok
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning Data Analysis and Machine Learning
+- 📫 How to reach me akhil.s.asok@gmail.com
